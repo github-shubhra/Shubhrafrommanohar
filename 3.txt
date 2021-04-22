@@ -1,1 +1,2 @@
-This is 3rd file
+This is 3rd file. Making changes to check how fetch works
+making some more changes to check how the diff command works
